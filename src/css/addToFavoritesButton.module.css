@@ -1,0 +1,26 @@
+.addToFavoritesButton {
+    padding: 0.5rem 1rem;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: red !important;
+  }
+  
+  .addToFavoritesButtonLabel {
+    margin-left: 0.5rem;
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  
+  .addToFavoritesCheckbox {
+    color: red !important;
+  }
+  
+  .addToFavoritesCheckbox:hover {
+    color: red;
+  }
+  
+  .addToFavoritesCheckbox:checked {
+    color: red !important;
+  }

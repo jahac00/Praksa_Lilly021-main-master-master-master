@@ -1,0 +1,18 @@
+.button {
+    background-color: #202020 !important;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-out;
+  }
+  
+  .button:hover {
+    background-color: rgb(192, 19, 19) !important;
+  }
+  
+  .button:active {
+    transform: scale(0.95) !important;
+  }

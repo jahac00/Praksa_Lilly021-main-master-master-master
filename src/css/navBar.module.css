@@ -1,0 +1,21 @@
+.navbar {
+  background-color: #202020 !important;
+  color: #fff;
+}
+  
+  .nav-link {
+    color: #fff;
+  }
+  
+  .navbar-brand {
+    color: #fff;
+  }
+
+  .nav-link:hover {
+    color: rgb(192, 19, 19);
+  }
+
+  .logo-icon:hover {
+    color: rgb(192, 19, 19);
+  }
+ 

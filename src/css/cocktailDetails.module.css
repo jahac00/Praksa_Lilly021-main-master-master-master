@@ -1,0 +1,45 @@
+.cocktail-details {
+    color: #fff;
+    font-family: Arial, sans-serif;
+    padding-top: 20px;
+    padding-left: 20px;
+  }
+  
+  .cocktail-header {
+    display: flex;
+    align-items: center;
+  }
+  
+  .cocktail-header h2 {
+    margin-right: 60px;
+  }
+  
+  .cocktail-header button {
+    margin-left: 60px;
+  }
+  
+  .cocktail-details p {
+    font-size: 16px;
+  }
+  
+  /* .cocktail-details ul {
+    padding-bottom: 20px;
+  } */
+  
+  .cocktail-details ul li {
+    font-size: 14px;
+    padding:5px
+  }
+  
+  .cocktail-details .video-player-wrapper {
+    /* padding-top: 20px; */
+    padding-bottom: 20px;
+  }
+  
+  .cocktail-details .ingredients-wrapper {
+    padding-bottom: 20px;
+  }
+  
+  .cocktail-details .footer {
+    padding-top: 80px;
+  }
